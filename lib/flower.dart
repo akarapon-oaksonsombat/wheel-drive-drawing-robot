@@ -1,0 +1,8 @@
+import 'package:flutter/material.dart';
+import 'ex.dart';
+class Flower extends ExampleData {
+Flower() : super([
+ [Offset(2,-18), Offset(2,-17), Offset(2,-17), Offset(2,-17), Offset(3,-17), Offset(8,-15), Offset(10,-12), Offset(11,-10), Offset(11,-9), Offset(10,-9), Offset(5,-11), Offset(3,-12), Offset(1,-13), Offset(1,-14), Offset(1,-14), Offset(0,-13), Offset(1,-8), Offset(1,-7), Offset(1,-7), Offset(5,-9), Offset(9,-8), Offset(11,-6), Offset(9,-2), Offset(9,-2), Offset(9,-2), Offset(9,-2), Offset(11,-2), Offset(14,-3), Offset(17,-3), Offset(19,0), Offset(17,3), Offset(16,4), Offset(13,5), Offset(12,5), Offset(13,5), Offset(18,8), Offset(19,10), Offset(18,12), Offset(15,13), Offset(13,13), Offset(10,12), Offset(9,11), Offset(9,12), Offset(9,15), Offset(8,17), Offset(6,18), Offset(4,18), Offset(1,16), Offset(-1,13), Offset(-1,12), Offset(-2,13), Offset(-3,14), Offset(-4,15), Offset(-9,16), Offset(-12,11), Offset(-12,10), Offset(-10,8), Offset(-9,7), Offset(-9,7), Offset(-9,7), Offset(-10,7), Offset(-13,7), Offset(-15,7), Offset(-18,4), Offset(-16,0), Offset(-14,0), Offset(-10,0), Offset(-8,0), Offset(-10,-1), Offset(-11,-3), Offset(-12,-5), Offset(-11,-7), Offset(-9,-9), Offset(-7,-9), Offset(-5,-9), Offset(-4,-8), Offset(-3,-7), Offset(-2,-7), Offset(-2,-10), Offset(-2,-15), Offset(-2,-18), Offset(-2,-19), Offset(0,-19), Offset(2,-19), Offset(2,-18)],
+ [Offset(-3,-1), Offset(-5,0), Offset(-6,1), Offset(-6,3), Offset(-6,5), Offset(-4,7), Offset(-1,8), Offset(2,8), Offset(5,8), Offset(7,6), Offset(8,4), Offset(7,2), Offset(4,0), Offset(3,-1), Offset(1,-1), Offset(-1,-1), Offset(-3,-1), Offset(-3,-1)],
+ [Offset(20,-20)]]);
+}
